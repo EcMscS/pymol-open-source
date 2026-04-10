@@ -2,3 +2,5 @@
 *.d
 generated
 build
+install-prefix/
+pymol.egg-info/
